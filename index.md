@@ -1,6 +1,7 @@
-
+---------------
 layout: default
 title: Image Bhattarai Portfolio
+---------------
 
 # Wetland Permanence Classification  
 **Using Multi-Temporal Sentinel-2 Imagery**
